@@ -1,4 +1,4 @@
-# bootstrap-and-sass vscode settings.
+# materialize-and-sass vscode settings.
 
 "liveSassCompile.settings.autoprefix": ["> 1%", "last 2 versions"],
 "liveSassCompile.settings.excludeList": [
